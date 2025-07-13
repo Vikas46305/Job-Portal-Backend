@@ -1,0 +1,35 @@
+# Dependencies
+node_modules
+
+# Environment variables
+.env
+.env.*
+
+# Logs
+logs/
+*.log
+
+# Runtime data
+pids/
+*.pid
+*.pid.lock
+
+# Output directories
+dist/
+build/
+tmp/
+temp/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDE-specific
+.vscode/
+.idea/
+*.suo
+*.njsproj
+*.sln
+
+# TypeScript (if used)
+*.tsbuildinfo
